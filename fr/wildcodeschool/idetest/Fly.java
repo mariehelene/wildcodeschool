@@ -11,7 +11,7 @@ public interface Fly {
 	void land();
 	
 	default void glide() {
-		System.out.printf("It glides into the air.");
+		System.out.printf("It glides into the air.%n");
 	};
 
 }
