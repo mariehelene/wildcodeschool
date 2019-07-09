@@ -43,16 +43,15 @@ En sortie: [
  */
 
 function getFoodCategories(foods) {
-
   const categories = foods.map(function(food) {
     return {
-      string: food.food + booleanToIsExpression(food.isVegetarian) + " suitable for vegetarians"
+      string: food.food + getBooleanIsExpression(food.isVegetarian) + " suitable for vegetarians"
     };
   });
   return categories;
 }
 
-function booleanToIsExpression(boolean) {
+function getBooleanIsExpression(boolean) {
   if (boolean) return ' is ' 
   else return ' is not ';
 }
