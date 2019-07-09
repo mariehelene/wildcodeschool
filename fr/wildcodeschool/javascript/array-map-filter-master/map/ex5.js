@@ -13,6 +13,13 @@ Tableau renvoyé par multiplyOddIndices:
 */
 
 function multiplyOddIndices(numbers) {
+
+  const multiply = numbers.map(function(number, index) {
+    if (index % 2 == 0) return number
+    else return number * index
+  });
+  return multiply;
+
 }
 
 module.exports = multiplyOddIndices;
