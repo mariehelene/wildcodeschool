@@ -1,3 +1,4 @@
+/* WCS - Quête Javascript - 1 */
 /* my-favorite.js */
 
 // Define some variables
