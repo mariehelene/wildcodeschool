@@ -2,10 +2,10 @@
 /* my-favorite.js */
 
 // Define some variables
-const thePicture = 'Retour vers le Futur';
-const theYear = '1985';
-const theDirector = 'Robert Zemeckis';
-const message = thePicture + ', réalisé par ' + theDirector + ', est sorti en ' + theYear + '.';
+const movie = 'Retour vers le Futur';
+year = 1985;
+const director = 'Robert Zemeckis';
+const message = movie + ', réalisé par ' + director + ', est sorti en ' + year + '.';
 
 // Display a popup
 alert(message);
