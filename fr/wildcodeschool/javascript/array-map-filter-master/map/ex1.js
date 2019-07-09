@@ -24,9 +24,7 @@ En sortie: [
 function getStringsLength(strings) {
 
   const lengths = strings.map(function(string) {
-    return {
-      string: string + " contains " + string.length + " characters"
-    };
+    return string + " contains " + string.length + " characters"
   });
   return lengths;
 
