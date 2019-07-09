@@ -44,9 +44,7 @@ En sortie: [
 
 function getFoodCategories(foods) {
   const categories = foods.map(function(food) {
-    return {
-      string: food.food + getBooleanIsExpression(food.isVegetarian) + " suitable for vegetarians"
-    };
+    return food.food + getBooleanIsExpression(food.isVegetarian) + 'suitable for vegetarians'
   });
   return categories;
 }
