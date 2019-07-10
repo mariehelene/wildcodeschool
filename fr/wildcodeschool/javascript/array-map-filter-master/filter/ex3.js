@@ -24,6 +24,12 @@ Sortie attendue:
  */
 
 function keepStarks(names) {
+
+  const stark = names.filter(function(name) {
+    return (name.indexOf("Stark") != -1)
+  });
+  return stark;
+
 }
 
 // Ne pas modifier l'export
