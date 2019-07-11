@@ -59,7 +59,7 @@ En sortie:
 
  */
 
-function getMoviesWithFreshness(movies) {
+function getMoviesFreshness(movies) {
 
   const moviesWithFreshness = movies.map(function(movie) {
     return {
