@@ -62,12 +62,10 @@ En sortie:
 function getMoviesFreshness(movies) {
 
   const moviesWithFreshness = movies.map(function(movie) {
-    return {
-      object: {
+    return {      
         name: movie.name,
         rating: movie.rating,
         label: getRatingLabel(movie.rating)
-      }
     };
   });
   return moviesWithFreshness;
