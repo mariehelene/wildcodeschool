@@ -55,11 +55,9 @@ function getCirclesProperties(radiuses) {
 
   const circlesProperties = radiuses.map(function(radius) {
     return {
-      object: {
         radius: radius,
         circumference: getCircumference(radius).toFixed(3),
         surface: getSurface(radius).toFixed(3)
-      }
     };
   });
   return circlesProperties;
