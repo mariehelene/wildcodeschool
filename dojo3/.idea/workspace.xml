@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0d64a6f-6d20-4b6e-87ba-8283c9aa4a20" name="Default Changelist" comment="Java - Dojo3">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dojo3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/dojo3/wcs/dojo3/CharCount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/dojo3/wcs/dojo3/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wcs/dojo3/CharCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wcs/dojo3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../idetest/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/idetest/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/idetest/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/idetest/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/../idetest/src/fr/wildcodeschool/firstprojects/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/idetest/Boat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../idetest/src/fr/wildcodeschool/firstprojects/Boat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/idetest/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../idetest/src/fr/wildcodeschool/firstprojects/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/idetest/Classroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/../idetest/src/fr/wildcodeschool/firstprojects/Classroom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/idetest/Decipherer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../idetest/src/fr/wildcodeschool/firstprojects/Decipherer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/idetest/Eagle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../idetest/src/fr/wildcodeschool/firstprojects/Eagle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/idetest/Fly.java" beforeDir="false" afterPath="$PROJECT_DIR$/../idetest/src/fr/wildcodeschool/firstprojects/Fly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/idetest/Hangar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../idetest/src/fr/wildcodeschool/firstprojects/Hangar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/idetest/Nature.java" beforeDir="false" afterPath="$PROJECT_DIR$/../idetest/src/fr/wildcodeschool/firstprojects/Nature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/idetest/Penguin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../idetest/src/fr/wildcodeschool/firstprojects/Penguin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/idetest/Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/../idetest/src/fr/wildcodeschool/firstprojects/Start.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/idetest/Swim.java" beforeDir="false" afterPath="$PROJECT_DIR$/../idetest/src/fr/wildcodeschool/firstprojects/Swim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/idetest/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../idetest/src/fr/wildcodeschool/firstprojects/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/idetest/Wilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../idetest/src/fr/wildcodeschool/wilder/Wilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/idetest/wild.html" beforeDir="false" afterPath="$PROJECT_DIR$/../idetest/src/wild.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/.settings/.jsdtscope" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/.settings/.jsdtscope" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/.settings/org.eclipse.wst.jsdt.ui.superType.container" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/.settings/org.eclipse.wst.jsdt.ui.superType.name" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/disable" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/disable" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/disableAll" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/disableAll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/enable" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/enable" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/enableAll" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/enableAll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/filter-map/ex1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/filter-map/ex1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/filter-map/ex2.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/filter-map/ex2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/filter-map/ex3.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/filter-map/ex3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/filter-map/ex4.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/filter-map/ex4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/filter/ex1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/filter/ex1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/filter/ex2.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/filter/ex2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/filter/ex3.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/filter/ex3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/filter/ex4.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/filter/ex4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/filter/ex5.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/filter/ex5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/filter/ex6.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/filter/ex6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/map/ex1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/map/ex1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/map/ex2.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/map/ex2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/map/ex3.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/map/ex3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/map/ex4.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/map/ex4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/map/ex5.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/map/ex5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/tests/filter-map1.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/tests/filter-map1.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/tests/filter-map2.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/tests/filter-map2.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/tests/filter-map3.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/tests/filter-map3.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/tests/filter-map4.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/tests/filter-map4.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/tests/filter1.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/tests/filter1.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/tests/filter2.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/tests/filter2.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/tests/filter3.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/tests/filter3.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/tests/filter4.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/tests/filter4.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/tests/filter5.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/tests/filter5.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/tests/filter6.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/tests/filter6.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/tests/map1.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/tests/map1.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/tests/map2.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/tests/map2.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/tests/map3.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/tests/map3.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/tests/map4.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/tests/map4.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/array-map-filter-master/tests/map5.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/array-map-filter-master/tests/map5.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/hello-wilder.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hello-wilder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fr/wildcodeschool/javascript/my-favorite.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/my-favorite.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/wcs/dojo3/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/wcs/dojo3/CharCount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/wcs/dojo3/Main.java" />
+        <option value="$PROJECT_DIR$/src/wcs/dojo3/CharCount.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="177" />
+    <option name="y" value="98" />
+    <option name="width" value="1196" />
+    <option name="height" value="700" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Course" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dojo3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dojo3" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java_quete_maven" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="wcs.dojo3.Main" />
+      <module name="dojo3" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0d64a6f-6d20-4b6e-87ba-8283c9aa4a20" name="Default Changelist" comment="" />
+      <created>1563265098553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563265098553</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="177" y="98" width="1196" height="700" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2626087" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23951286" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.42556918" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java - Dojo3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java - Dojo3" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/wcs/dojo3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wcs/dojo3/CharCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
