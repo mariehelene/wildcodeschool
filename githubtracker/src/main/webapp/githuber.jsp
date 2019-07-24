@@ -28,6 +28,7 @@
             <li class="list-group-item">
                 <div class="row">
                     <div class="col"><img src="<c:out value="${element.avatarUrl}" />" width="100" class="img-responsive"/></div>
+
                     <div class="col">
                         <c:out value="id: ${element.id}"/><br>
                         <c:out value="name: ${element.name}"/><br>
