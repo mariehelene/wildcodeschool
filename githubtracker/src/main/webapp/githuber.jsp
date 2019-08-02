@@ -1,7 +1,6 @@
 <%@ page import="java.util.ArrayList" %>
 <%@ page import="fr.wildcodeschool.githubtracker.model.Githuber" %>
-<%--@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" --%>
-<%@ taglib uri="http://java.sun.com/jstl/core" prefix="c" %>
+<%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%--
   Created by IntelliJ IDEA.
   User: mhd
@@ -18,22 +17,20 @@
 
     <div class="container">
 
-    <c:set var = "liste" value = "${githubersParm}"/>
-
     <ul class="list-group">
 
-        <c:forEach items="${liste}" var="element"  varStatus="loop">
+        <c:forEach items="${githubersParm}" var="element">
 
 
             <li class="list-group-item">
                 <div class="row">
-                    <div class="col"><img src="<c:out value="${element.avatarUrl}" />" width="100" class="img-responsive"/></div>
+                    <div class="col"><img src="${element.avatarUrl}" width="100" class="img-responsive"/></div>
 
                     <div class="col">
-                        <c:out value="id: ${element.id}"/><br>
-                        <c:out value="name: ${element.name}"/><br>
-                        <c:out value="login: ${element.login}"/><br>
-                        <c:out value="email: ${element.email}"/><br>
+                        id: ${element.id}<br>
+                        name: ${element.name}<br>
+                        login: ${element.login}<br>
+                        email: ${element.email}<br>
                     </div>
                 </div>
             </li>
