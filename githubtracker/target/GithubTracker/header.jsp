@@ -1,4 +1,4 @@
-
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
 
@@ -27,6 +27,9 @@
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="githubers">Githubers</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="track">Track</a>
             </li>
         </ul>
         <!-- <form class="form-inline my-2 my-lg-0">

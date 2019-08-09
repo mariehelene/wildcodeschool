@@ -27,7 +27,7 @@ public class GithubersServlet extends HttpServlet {
             throws ServletException, IOException {
 
         // redirection vers la jsp githuber
-        String loginPart = "";
+        // String login = "";
         request.setAttribute( "githubersParm", githubersService.getAllGithubers() );
         RequestDispatcher requestDispatcher = request.getRequestDispatcher("/githuber.jsp") ;
         requestDispatcher.forward(request, response) ;

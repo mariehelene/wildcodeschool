@@ -38,9 +38,9 @@ public class SimpleHelloServlet extends javax.servlet.http.HttpServlet {
     }
 
     protected void doGet(javax.servlet.http.HttpServletRequest request, javax.servlet.http.HttpServletResponse response) throws javax.servlet.ServletException, IOException {
-        //PrintWriter out = response.getWriter();
-        //out.print("Simple hello!");
 
+//PrintWriter out = response.getWriter();
+        //out.print("Simple hello!");
         // redirection vers la jsp hello-form
         RequestDispatcher requestDispatcher = request.getRequestDispatcher("/hello-form.jsp") ;
         requestDispatcher.forward(request, response) ;

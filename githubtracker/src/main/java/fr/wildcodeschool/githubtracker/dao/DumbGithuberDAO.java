@@ -34,5 +34,10 @@ public class DumbGithuberDAO implements GithuberDAO {
         return githubers;
     }
 
+    @Override
+    public void saveGithuber(Githuber githuber) {
+        throw new UnsupportedOperationException("Invalid operation");
+    }
+
 
 }
